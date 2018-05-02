@@ -1,0 +1,2 @@
+MAC jupyter install: pip install --user jupyter
+MAC jupyter notebook use: python -m IPython notebook
